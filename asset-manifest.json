@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/GameQuiz-React_Typescript/static/css/main.1f005baf.css",
+    "main.js": "/GameQuiz-React_Typescript/static/js/main.f2fb5e31.js",
+    "static/js/787.a763b153.chunk.js": "/GameQuiz-React_Typescript/static/js/787.a763b153.chunk.js",
+    "static/media/Linearicons-Free.svg?w118d": "/GameQuiz-React_Typescript/static/media/Linearicons-Free.638c6c05cd657465ff11.svg",
+    "static/media/Muli-Regular.ttf": "/GameQuiz-React_Typescript/static/media/Muli-Regular.426119c6180ffbf84af2.ttf",
+    "static/media/Muli-SemiBold.ttf": "/GameQuiz-React_Typescript/static/media/Muli-SemiBold.dbbd674e4a934ed126fa.ttf",
+    "static/media/Linearicons-Free.eot": "/GameQuiz-React_Typescript/static/media/Linearicons-Free.eb992e965197b4672140.eot",
+    "static/media/Linearicons-Free.woff?w118d": "/GameQuiz-React_Typescript/static/media/Linearicons-Free.a78a26fb0b18bc4cde28.woff",
+    "static/media/Linearicons-Free.ttf?w118d": "/GameQuiz-React_Typescript/static/media/Linearicons-Free.5cbe0a85581dc42087ac.ttf",
+    "static/media/image-1.png": "/GameQuiz-React_Typescript/static/media/image-1.53c0bead83fb0add7ee4.png",
+    "static/media/Linearicons-Free.woff2?w118d": "/GameQuiz-React_Typescript/static/media/Linearicons-Free.857c65d6452680b4f3b1.woff2",
+    "static/media/image-2.png": "/GameQuiz-React_Typescript/static/media/image-2.bccd46bdc95e807b3a61.png",
+    "index.html": "/GameQuiz-React_Typescript/index.html",
+    "main.1f005baf.css.map": "/GameQuiz-React_Typescript/static/css/main.1f005baf.css.map",
+    "main.f2fb5e31.js.map": "/GameQuiz-React_Typescript/static/js/main.f2fb5e31.js.map",
+    "787.a763b153.chunk.js.map": "/GameQuiz-React_Typescript/static/js/787.a763b153.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f005baf.css",
+    "static/js/main.f2fb5e31.js"
+  ]
+}
