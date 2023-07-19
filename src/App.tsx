@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import './css/style.css';
 import './fonts/linearicons/style.css'
@@ -49,6 +48,7 @@ function App() {
   function reStart(){
     setState('start');
     setScore(0);
+    setName('');
   }
 
   return (
@@ -56,9 +56,9 @@ function App() {
       {(state === 'start') ? (
         <div className="wrapper">
           <div className="inner">
-            <img src={require('./images/image-1.png')} alt="" className="image-1" />
+            <img src={require('./images/tulip.png')} alt="" className="image-1" />
             <form action="">
-              <h3>React Quiz</h3>
+              <h3>Test your Knowledge</h3>
               <div className="form-holder">
                 <input type="text" className="form-control" placeholder="Your name" value={name} onChange={(e) => setName(e.target.value)} />
               </div>
@@ -85,19 +85,19 @@ function App() {
                 <span>Start</span>
               </button>
             </form>
-            <img src={require('./images/image-2.png')} alt="" className="image-2" />
+            <img src={require('./images/bee.png')} alt="" className="image-2" />
           </div>
         </div>
       ) : null}
       {loading ?  <div className="wrapper">
           <div className="inner">
-            <img src={require('./images/image-1.png')} alt="" className="image-1" />
+            <img src={require('./images/tulip.png')} alt="" className="image-1" />
             <form action="">
               <h3>React Quiz</h3>
              <br></br>
              <h4>Loading the questions...</h4>
              </form>
-            <img src={require('./images/image-2.png')} alt="" className="image-2" />
+            <img src={require('./images/bee.png')} alt="" className="image-2" />
           </div>
         </div>
         : null}
@@ -112,7 +112,7 @@ function App() {
       {(state === 'end') ? (
         <div className="wrapper">
           <div className="inner">
-            <img src={require('./images/image-1.png')} alt="" className="image-1" />
+            <img src={require('./images/tulip.png')} alt="" className="image-1" />
             <form action="">
               <h3>You scored {score} out of 10!</h3>
               <p>{(score < 5) ? `I think you could do better, ${name}!` : (score < 8) ? `It's good, but it could be better, ${name}.` : `You actually are very smart, ${name}!`}</p>
@@ -120,7 +120,7 @@ function App() {
                 <span>Start over</span>
               </button>
             </form>
-            <img src={require('./images/image-2.png')} alt="" className="image-2" />
+            <img src={require('./images/bee.png')} alt="" className="image-2" />
           </div>
         </div>
       ) : null}

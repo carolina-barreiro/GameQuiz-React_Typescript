@@ -54,7 +54,7 @@ export function QuestionCard(props: CardProps) {
 
     return (<><div className="wrapper">
         <div className="inner">
-            <img src={require('./images/image-1.png')} alt="" className="image-1" />
+            <img src={require('./images/tulip.png')} alt="" className="image-1" />
             <form action="">
                 <h3 dangerouslySetInnerHTML={{ __html: props.list[atQuestion].question }}></h3>
                 <div className="ml-md-3 ml-sm-3 pl-md-5 pt-sm-0 pt-3" id="options">
@@ -77,7 +77,7 @@ export function QuestionCard(props: CardProps) {
                     <span>{((atQuestion + 1) == props.list.length) ? 'Submit' : 'Next'}</span>
                 </button>
             </form>
-            <img src={require('./images/image-2.png')} alt="" className="image-2" />
+            <img src={require('./images/bee.png')} alt="" className="image-2" />
         </div>
 
     </div></>)
