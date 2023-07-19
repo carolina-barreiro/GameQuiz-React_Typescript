@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/GameQuiz-React_Typescript/static/css/main.a13b396e.css",
+    "main.css": "/GameQuiz-React_Typescript/static/css/main.0d414831.css",
     "main.js": "/GameQuiz-React_Typescript/static/js/main.6220d4ce.js",
     "static/js/787.a763b153.chunk.js": "/GameQuiz-React_Typescript/static/js/787.a763b153.chunk.js",
     "static/media/Linearicons-Free.svg?w118d": "/GameQuiz-React_Typescript/static/media/Linearicons-Free.638c6c05cd657465ff11.svg",
@@ -13,12 +13,12 @@
     "static/media/bee.png": "/GameQuiz-React_Typescript/static/media/bee.5bcd6d1465ee9e943602.png",
     "static/media/Linearicons-Free.woff2?w118d": "/GameQuiz-React_Typescript/static/media/Linearicons-Free.857c65d6452680b4f3b1.woff2",
     "index.html": "/GameQuiz-React_Typescript/index.html",
-    "main.a13b396e.css.map": "/GameQuiz-React_Typescript/static/css/main.a13b396e.css.map",
+    "main.0d414831.css.map": "/GameQuiz-React_Typescript/static/css/main.0d414831.css.map",
     "main.6220d4ce.js.map": "/GameQuiz-React_Typescript/static/js/main.6220d4ce.js.map",
     "787.a763b153.chunk.js.map": "/GameQuiz-React_Typescript/static/js/787.a763b153.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a13b396e.css",
+    "static/css/main.0d414831.css",
     "static/js/main.6220d4ce.js"
   ]
 }
