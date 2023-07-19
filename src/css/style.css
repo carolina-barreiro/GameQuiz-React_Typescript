@@ -71,7 +71,7 @@ a {
 
 .image-1 {
   width: 25rem;
-  height: auto; 
+  height: auto;
   position: absolute;
   bottom: -1.5rem;
   left: -300px;
@@ -240,6 +240,7 @@ button:hover:after {
     left: 0;
   }
 
+
   .image-1,
   .image-2 {
     display: none;
@@ -252,10 +253,6 @@ button:hover:after {
     -moz-box-shadow: none;
     -ms-box-shadow: none;
     -o-box-shadow: none;
-  }
-
-  .wrapper {
-    background: none;
   }
 }
 
